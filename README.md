@@ -1,8 +1,3 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
@@ -44,8 +39,21 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Category 1:
+### Population and Population Density Trends 
 
+*Correlation is 1.
+* Selangor and Johor Kuala Lumpur, Negeri Sembilan, Melaka, Perlis, Putrajaya increase
+* Sabah, Sarawak, Kelantan, Pahang, Terengganu, Labuan decline
+* 
+![image](https://github.com/user-attachments/assets/3a5600af-2e1a-458e-9eee-786bdf146fce)
+
+### Trends in Birth and Birth Rate
+### Birth Rate Trends
+* Downward trends across Malaysia. The strongest (weakest) downward trends were -0.420 (-0.112) in Sarawak (Terengganu) during 2000-2023, -2.022 (-0.115) in Putrajaya (Terengganu) during 2010-2023, and -1.969 (-0.096) in Putrajaya (Sarawak) during 2019-2023.
+* 8 states (Selangor, Johor, Kuala Lumpur, Pahang, Negeri Sembilan, Terengganu, Melaka, Perlis, Labuan) and Malaysia indicated stronger declines during 2019-2023 compared to 2000-2023.
+* 6 states (Sabah, Perak, Sarawak, Kelantan, Pulau Pinang, Putrajaya) indicated weaker declines during 2019-2023 compared to 2000-2023.
+
+* 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
