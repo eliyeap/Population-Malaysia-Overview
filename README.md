@@ -48,6 +48,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ![image](https://github.com/user-attachments/assets/3a5600af-2e1a-458e-9eee-786bdf146fce)
 
 ### Trends in Birth and Birth Rate
+### Birth Trends
+* Malaysia and most of the states (except Pulau Pinang) showed stronger downward trends during 2019-2023 compared to 2000-2023.
+* Selangor, Sabah, Terengganu, Labuan showed upward trends during 2000-2023.
+
 ### Birth Rate Trends
 * Downward trends across Malaysia. The strongest (weakest) downward trends were -0.420 (-0.112) in Sarawak (Terengganu) during 2000-2023, -2.022 (-0.115) in Putrajaya (Terengganu) during 2010-2023, and -1.969 (-0.096) in Putrajaya (Sarawak) during 2019-2023.
 * 8 states (Selangor, Johor, Kuala Lumpur, Pahang, Negeri Sembilan, Terengganu, Melaka, Perlis, Labuan) and Malaysia indicated stronger declines during 2019-2023 compared to 2000-2023.
