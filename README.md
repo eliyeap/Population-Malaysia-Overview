@@ -53,7 +53,7 @@ The number of births exhibited upward trends in Selangor, Sabah, Terengganu, and
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-*** Economic Development in Other States**
+*** Economic Development in Other States***
 * Infrastructure Development: Allocate resources to improve transportation, healthcare, and urban infrastructure in states with declining populations to make them more attractive for businesses and residents.
 * Economic Opportunities: Establish industrial hubs, encourage entrepreneurship, and provide tax incentives for businesses to set up operations in these regions to create job opportunities.
 * Educational Institutions: Invest in higher education and skill-development centres to attract students and retain young talent, fostering long-term regional development.
