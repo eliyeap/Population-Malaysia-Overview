@@ -53,21 +53,22 @@ The number of births exhibited upward trends in Selangor, Sabah, Terengganu, and
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-*** Economic Development in Other States***
-* Infrastructure Development: Allocate resources to improve transportation, healthcare, and urban infrastructure in states with declining populations to make them more attractive for businesses and residents.
-* Economic Opportunities: Establish industrial hubs, encourage entrepreneurship, and provide tax incentives for businesses to set up operations in these regions to create job opportunities.
-* Educational Institutions: Invest in higher education and skill-development centres to attract students and retain young talent, fostering long-term regional development.
+  ### Economic Development in Other States
+  * **Infrastructure development**: Allocate resources to improve urban infrastructure, transportation, and healthcare in states with declining populations to make them more attractive for businesses and residents.
+  * **Economic opportunities**: Establish industrial hubs, encourage entrepreneurship, and provide tax incentives for businesses to set up operations in these regions to create job opportunities.
+  * **Educational institutions**: Invest in higher education and skill-development centres to attract students and retain young talent, fostering long-term regional development.
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
+  ### Support Families
+  * **Childcare support**: Develop affordable and accessible childcare facilities to ease the burden on working parents to encourage them to have more children.
+  * **Parental leave policies**: Enhance parental leave policies for both parents to provide financial stability during early child-rearing years.
+  * **Financial assistance**: Offer targeted financial incentives (e.g., baby bonuses or subsidies for housing and education) to support families with children.
+  * **Awareness campaigns**: Promote the importance of family planning and the benefits of raising children through national campaigns.
+
+  ### Demographic Research
+  * Conduct further research to understand the drivers of population increases across states to ensure informed policy decisions.
+
+  ### Monitoring and Forecasting
+  * Establish systems to monitor population dynamics and forecast future trends for proactive adjustments to policies and programs.
 
 
 # Assumptions and Caveats:
