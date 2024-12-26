@@ -6,11 +6,11 @@ Insights and recommendations are provided on the following key areas:
 - **Malaysian Population Metrics:** Evaluate the annual time series and trends of five population metrics in Malaysia.
 - **State Population Metrics:** Evaluate the annual time series and trends of five population metrics for all Malaysian states.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [https://github.com/eliyeap/Population-Malaysia-Overview/blob/4a12ef39d845b15e4365db45d9a60a627bdc4e63/Inspect_Clean_Data.sql].
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/eliyeap/Population-Malaysia-Overview/blob/4a12ef39d845b15e4365db45d9a60a627bdc4e63/Inspect_Clean_Data.sql).
 
 Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [https://public.tableau.com/views/PopulationMetricsinMalaysia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link].
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/PopulationMetricsinMalaysia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 
