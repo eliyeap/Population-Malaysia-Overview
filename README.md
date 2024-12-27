@@ -2,7 +2,7 @@
 Over recent decades, Malaysia has undergone substantial demographic shifts. This study examines population changes in Malaysia by estimating and analysing the long-term trends and variabilities of five population metrics: total population, population density, population growth rates, the number of births, and birth rates. Understanding changes in demographic patterns is vital for policymakers and stakeholders to address regional inequalities, meet economic demands, and tackle societal challenges effectively.
 
 Insights and recommendations are provided on the following key areas:
-
+ 
 - **Malaysian Population Metrics:** Evaluate the annual time series and trends of five population metrics in Malaysia.
 - **State Population Metrics:** Evaluate the annual time series and trends of five population metrics for all Malaysian states.
 
