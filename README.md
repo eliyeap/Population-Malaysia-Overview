@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/eliyeap/Population-Malaysia-Overview/blob/4a12ef39d845b15e4365db45d9a60a627bdc4e63/Inspect_Clean_Data.sql).
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed SQL queries regarding various business questions can be found [here](https://github.com/eliyeap/Population-Malaysia-Overview/blob/3aee91bf82b2e05df9c94743c25f1815f361a9b4/EDA.sql).
 
 An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/PopulationMetricsinMalaysia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
@@ -77,14 +77,9 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
   ### Monitoring and Forecasting
   * Establish systems to monitor population dynamics and forecast future trends for proactive adjustments to policies and programs.
-
-
+  
 # Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+* Missing population metric data for Putrajaya during 2000-2009. No filling was done for this period.
+* Population growth rate measures the percentage change in population between an earlier year and a later year. Thus, there is no population growth rate in 2000.  
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
