@@ -16,7 +16,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The main database structure consists of three tables: Time Series Population Birth, Trend Population Birth, and Correlation with a row count of 48, 51, and 17 records, respectively. A description of each table is as follows:
+The main database structure consists of two tables: population_state_raw and birth_state_raw. A description of each table is as follows:
 
 ![image](https://github.com/user-attachments/assets/ffa2e9e0-8139-475c-8cef-a6fe91641e70)
 
